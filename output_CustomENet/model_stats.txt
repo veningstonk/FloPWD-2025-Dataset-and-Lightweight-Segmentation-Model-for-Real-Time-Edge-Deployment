@@ -1,0 +1,2 @@
+FLOPS: 11.57
+Parameters: 0.15
